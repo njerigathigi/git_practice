@@ -1,2 +1,2 @@
-feeling = "Awesome"
+feeling = 'Awesome'
 print(feeling)
